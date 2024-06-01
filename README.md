@@ -4,6 +4,7 @@
         based on semester percentages. The app features data visualization, exploratory data analysis (EDA), and a grade
         prediction tool using a Random Forest Classifier.</p>
     <p>
+            <a href="http://localhost:8501/">Check out the website here</a>
         <h2>Usage</h2>
         Once you have the app running, you can navigate through different sections using the sidebar.</p> 
     <p>
