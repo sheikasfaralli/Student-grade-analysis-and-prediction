@@ -8,4 +8,6 @@
         Once you have the app running, you can navigate through different sections using the sidebar.</p> 
     <p>
         <h2>Home</h2>
-        <li><ul>Displays a welcome image and an introduction to the app.</ul></li></p>            
+        <ul>
+            <li>Displays a welcome image and an introduction to the app.</li>
+        </ul></p>            
