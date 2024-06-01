@@ -42,10 +42,10 @@ st.title("Student Grade Prediction & Analysis")
 
 nav = st.sidebar.radio("Navigation",["Home","EDA","Prediction"])
 if nav == "Home":
-    st.image("data//image.jpeg",width=621)
+    st.image("data//Home.jpeg",width=621)
 
 if nav == "EDA":
-    st.image("data//Eda.jpg")
+    st.image("data//EDA.jpg")
     if st.checkbox("**Show Dataset**"):
         st.dataframe(data)
 
