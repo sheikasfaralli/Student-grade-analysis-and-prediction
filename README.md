@@ -46,4 +46,33 @@
         </li>
     </ul>
     </p>
-   
+        <p>
+    <h2>Dataset</h2>
+    The dataset used in this project is 'datapro.csv', which contains the following columns:
+    <ul>
+        <li>
+            'Average': The average percentage score of the student.
+        </li>
+        <li>'Gender': The gender of the student.</li>
+        <li>Other relevant columns for analysis.</li>
+    </ul>
+    The dataset also includes a computed column Grades which categorizes scores into grades (A, B, C, D, E).
+     </p>
+   <p>
+    <h2>Model</h2>
+    The grade prediction model is a Random Forest Classifier with the following parameters:
+    <ul>
+        <li>'n_estimators': 100</li>
+        <li>'min_samples_split': 5</li>
+        <li>'min_samples_leaf': 1</li>
+        <li>'max_samples': 0.75</li>
+        <li>'max_features': 0.6</li>
+        <li>'max_depth': 2</li>
+        <li>'bootstrap': True</li>
+    </ul>
+    The model is trained on 75% of the dataset and tested on the remaining 25%.
+    </p>
+ <p>
+    <h2>Contributing</h2>
+    Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
+</p>
