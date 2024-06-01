@@ -36,17 +36,14 @@
             </ul>
         </li>
     </ul>
-
     <ul>
         <li>
             <h3>Grade Prediction:</h3>
             <ul>
                 <li>Predicts the final grade based on the average of two semester percentages.</li>
                 <li>Provides personalized suggestions based on the predicted grade.</li>
-
-            </ul>
+           </ul>
         </li>
     </ul>
-
     </p>
    
